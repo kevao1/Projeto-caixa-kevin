@@ -113,7 +113,7 @@ banco = [BncBr, sant, itau, caixa]
 cancela = ""
 while (cancela != "SAIR"):
     try:
-        x = int(input("Insira o código do banco desejado. 1: Banco do Brasil; 2: Santander; 3: Itaú; 4: Caixa"))
+        x = int(input("Insira o código do banco desejado. 1: Banco do Brasil; 2: Santander; 3: Itaú; 4: Caixa\n"))
         p1 = Caixa(banco[x-1], SaldoTotal)
     except:
         print("Código Inválido.")
