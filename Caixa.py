@@ -104,7 +104,7 @@ class Caixa:
 
 
 SaldoTotal = 10000
-itau = [40, 40, 40, 40, 40, 40, 0, 1000000000, 0, 0, 0]   #Do lote 6(ou 7, se não estiver iniciando a contagem do 0) para cima, respectivamente: Maior Saque, Menor Saque, Média, Total dos Saques, Número de vezes que o banco foi selecionado
+itau = [3123, 40, 40, 40, 40, 40, 0, 1000000000, 0, 0, 0]   #Do lote 6(ou 7, se não estiver iniciando a contagem do 0) para cima, respectivamente: Maior Saque, Menor Saque, Média, Total dos Saques, Número de vezes que o banco foi selecionado
 caixa = [40, 40, 40, 40, 40, 40, 0, 1000000000, 0, 0, 0]  #O primeiro é a nota de 100, depois a de 50, depois 20, 10, 5, 2
 sant = [40, 40, 40, 40, 40, 40, 0, 1000000000, 0, 0, 0]
 BncBr = [40, 40, 40, 40, 40, 40, 0, 1000000000, 0, 0, 0]
